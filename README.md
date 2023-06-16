@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xerxez7" alt="xerxez7" /></a> </p>
 
-- 🔭 I’m currently working on [NewWorld](https://newworld-changed.blogspot.com/)
+- 🔭 I’m currently working on [NewWorld](http://www.karawangcodex.my.id)
 
 - 🌱 I’m currently learning **Php, Laravel, Tailwind, Bootsrap, Blogger, VueJs**
 
