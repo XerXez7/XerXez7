@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Php, Laravel, Tailwind, Bootsrap, Blogger, VueJs**
 
-- 👯 I’m looking to collaborate on [World Damage](https://newworld-changed.blogspot.com/)
+- 👯 I’m looking to collaborate on [World Damage]([[](http://www.darknesswrld.space/?m=1)](http://www.karawangcodex.my.id))
 
 - 🤝 I’m looking for help with [NewChanged](https://newworld-changed.blogspot.com/)
 
