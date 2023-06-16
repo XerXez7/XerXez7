@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
-- 📝 I regularly write articles on [Darkness in the World](http://www.darknesswrld.space/?m=1)
+- 📝 I regularly write articles on [Karawang Xcodex](http://www.karawangcodex.my.id)
 
 - 💬 Ask me about **Apa Itu Dunia?**
 
