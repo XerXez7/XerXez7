@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on [World Damage]([[](http://www.darknesswrld.space/?m=1)](http://www.karawangcodex.my.id))
 
-- 🤝 I’m looking for help with [NewChanged](https://newworld-changed.blogspot.com/)
+- 🤝 I’m looking for help with [NewChanged](http://www.darknesswrld.space/?m=1)
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
-- 📝 I regularly write articles on [https://newworld-changed.blogspot.com/](https://newworld-changed.blogspot.com/)
+- 📝 I regularly write articles on [Darkness in the World](http://www.darknesswrld.space/?m=1)
 
 - 💬 Ask me about **Apa Itu Dunia?**
 
