@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [NewWorld](https://newworld-changed.blogspot.com/)
 
-- 🌱 I’m currently learning **Php,Laravel, Tailwind,Blogger, wordpress**
+- 🌱 I’m currently learning **Php, Laravel, Tailwind, Bootsrap, Blogger, VueJs**
 
 - 👯 I’m looking to collaborate on [World Damage](https://newworld-changed.blogspot.com/)
 
